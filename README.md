@@ -15,16 +15,16 @@ This Python app compresses images by using the K-means clustering algorithm to r
 ```bash
 git clone https://github.com/yourusername/image-compression-app.git
 cd image-compression-app
-
+```
 ###  2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 ###  3.Run the app:
 
 ```bash
 main.py
-
+```
 ###  4. Output:
 
 The compressed image will be saved in the outputs/ folder as compressed.png.
